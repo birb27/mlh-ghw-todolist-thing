@@ -1,0 +1,59 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+  }
+  h2 {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 40px;
+    font-weight: 200;
+    color: #ffffff; 
+    background-color: transparent; 
+    padding: 10px; 
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-bottom-width: 1px;
+    border-bottom-color:#ccae6e;
+    border-bottom-style: solid;
+  }
+  div {
+    background-color: transparent;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-bottom-width: 1px;
+    border-bottom-color:#ccae6e;
+    border-bottom-style: solid;
+  }
+  button {
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    background-color: transparent;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    color: #c7999f;
+  }
+
+  textarea {
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    background-color: transparent;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    overflow: hidden;
+    resize: none;
+    outline: none;
+    color:#c7999f;
+    border-bottom-width: 1px;
+    border-bottom-color:#ccae6e;
+    border-bottom-style: solid;
+  }
+
+ 
